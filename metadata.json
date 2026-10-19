@@ -1,0 +1,6 @@
+{
+  "name": "AURA Luxury Real Estate",
+  "description": "High-end luxury real estate platform featuring e-commerce property cards, interactive filters, mortgage calculator, and agent booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
